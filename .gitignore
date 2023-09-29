@@ -1,0 +1,6 @@
+.env/
+build/
+dist/
+*.egg-info
+.poetry/
+__pycach__
